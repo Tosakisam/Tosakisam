@@ -10,7 +10,8 @@
 
 ###
 
-<img align="right" height="150" src="https://[i.imgflip.com](https://pin.it/5XAPAY5Le)/65efzo.gif"  />
+<img align="right" height="150" src="https://![220890](https://github.com/user-attachments/assets/46ceecbe-a2c0-4596-8869-93ab210bbce2)
+/65efzo.gif"  />
 
 ###
 
