@@ -1,5 +1,5 @@
 
-<h2 align="left">Ola meu nome é Matheus P. furquim, atualmente estudante faculdade ciencias da computação  </h2>
+<h2 align="left">Ola meu nome é Matheus P. Furquim, atualmente estudante faculdade ciencias da computação  </h2>
 
 ###
 
