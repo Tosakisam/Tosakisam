@@ -43,8 +43,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Tosakisam/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
